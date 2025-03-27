@@ -9,7 +9,6 @@ public class Folder {
     {
         files = new HashMap<>();
         subFolders = new HashMap<>();
-        //Some line
     }
 
 }
